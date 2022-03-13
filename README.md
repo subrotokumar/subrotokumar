@@ -45,6 +45,7 @@
 <br><br><br><hr>
 ### Blogs posts 
 <!-- BLOG-POST-LIST:START -->
+- [What is Markdown and how you can use it to write README.md file for your GitHub project?](https://dev.to/subrotokumar/what-is-markdown-and-how-you-can-use-it-to-write-readmemd-file-for-your-github-project-56d5)
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
