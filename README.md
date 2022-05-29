@@ -49,7 +49,7 @@
 <!-- BLOG-POST-LIST:END -->  
 ---
 <p align="center">
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" /><img align="right" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&"  alt="subrotokumar" />
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" /><img align="right" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&"  alt="subrotokumar" />
 </p>
 
 <p align="center">
