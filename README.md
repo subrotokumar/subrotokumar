@@ -49,12 +49,9 @@
 <!-- BLOG-POST-LIST:END -->  
 ---
 <p align="center">
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" /><img align="right" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&"  alt="subrotokumar" />
+<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" /><img align="center" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&"  alt="subrotokumar" />
 </p>
-
 <p align="center">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=subrotokumar" alt="subrotokumar" />
-<br><br>
 <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=subrotokumar&show_icons=true&locale=en" alt="subrotokumar" />
 </p>
 <h2 align="center"> Show some ❤️ by starring some of the repositories! </h2>
