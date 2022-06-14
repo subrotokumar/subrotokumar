@@ -1,8 +1,8 @@
-<h1 align="center"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Subroto! </h1>
-
 ![](https://cdn.discordapp.com/attachments/714398127662039080/953245066191831040/Hello_my_name_is_Subroto._Nice_to_meet_you..png)
 
-<h3 align="center" style="background:#767676;"> Mobile App Developer | Digital Artist | Tech Geek </h3>
+<h1 align="center"> Hey, I'm Subroto! </h1>
+
+<h3 align="center" style="background:#767676;"> Aspiring Blockchain Developer | Mobile App Developer | Digital Artist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrotokumar&label=Profile%20views&color=0e75b6&style=flat" alt="subrotokumar" /> </p>
 
@@ -49,7 +49,7 @@
 <!-- BLOG-POST-LIST:END -->  
 ---
 <p align="center">
-<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" /><img align="center" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&"  alt="subrotokumar" />
+<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" /><img align="center" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar"  alt="subrotokumar" />
 </p>
 <p align="center">
 <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=subrotokumar&show_icons=true&locale=en" alt="subrotokumar" />
