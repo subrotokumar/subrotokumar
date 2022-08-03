@@ -83,9 +83,10 @@ Skills | Tools / Services
 
 ### Blogs Posts :
 <!-- BLOG-POST-LIST:START -->
-- [How To Deploy A Smart Contract On Blockchain Using Python](https://dev.to/subrotokumar/how-to-deploy-a-smart-contract-on-blockchain-using-python-3ki4)
-- [How to setup WSL2 and run Linux GUI apps in Windows operating system](https://dev.to/subrotokumar/how-to-setup-wsl2-in-windows-operating-system-41n9)
-- [What is Markdown and how you can use it to write README.md file for your GitHub project?](https://dev.to/subrotokumar/what-is-markdown-and-how-you-can-use-it-to-write-readmemd-file-for-your-github-project-56d5)
+- [Guide to Remix IDE: First step in Smart Contract Development](https://subrotokumar.me/guide-to-remix-ide)
+- [How To Deploy A Smart Contract On Blockchain Using Python](https://subrotokumar.me/how-to-deploy-a-smart-contract-on-blockchain-using-python)
+- [How to setup WSL2 and run Linux GUI apps in Windows operating system](https://subrotokumar.me/how-to-setup-wsl2-and-run-linux-gui-apps-in-windows-operating-system-1)
+- [What is Markdown and how you can use it to write README.md file for your GitHub project?](https://subrotokumar.me/what-is-markdown-and-how-you-can-use-it-to-write-readmemd-file-for-your-github-project)
 <!-- BLOG-POST-LIST:END -->  
 ---
 <p align="center">
