@@ -9,7 +9,7 @@
 <p align="right"> <img align="right" width="50%" src="https://cdn.discordapp.com/attachments/714398127662039080/980524842669449226/giphy.webp" /> </p> -->   
 <p align="right"> <img align="right" width="40%" src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png"> </p> 
 
-<p align="left"> <a href="https://twitter.com/isubrotokumar" target="blank"><img src="https://img.shields.io/twitter/follow/subrotokumar?logo=twitter&style=for-the-badge" alt="subrotokr" /></a> </p>  
+<p align="left"> <a href="https://twitter.com/isubrotokumar" target="blank"><img src="https://img.shields.io/twitter/follow/isubrotokumar?logo=twitter&style=for-the-badge" alt="subrotokr" /></a> </p>  
 
 - 🌱 I’m currently learning about various **cool stuffs**.
 
