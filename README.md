@@ -43,7 +43,7 @@
 <!-- BLOG-POST-LIST:END -->  
 ---
 <p align="center">
-<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=subrotokumar&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="subrotokumar" /><img align="center" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&theme=swift&hide_border=false"  alt="subrotokumar" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=subrotokumar&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="subrotokumar" /><img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&theme=swift&hide_border=false"  alt="subrotokumar" />
 </p>
 <p align="center">
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" />
