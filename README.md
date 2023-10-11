@@ -12,9 +12,9 @@
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png">
 </p>
 
-#### Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital.  
+**Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital.**
 - I'm a lifelong learner, constantly exploring the ever-evolving world of technology and its endless possibilities. 👨‍💻 
-- My world revolves around the software - I'm deeply involved in mobile / web development, from front-end to back-end, and everything in between. 🌐
+- My world revolves around the software - I'm deeply involved in mobile/web development, from front-end to back-end, and everything in between. 🌐
 - I'm obsessed with solving problems. If something isn't working, I'll dive into the code, dissect it, and make it work. 🔧 
 - I'm an avid reader, always searching for the latest tech trends and absorbing knowledge like a sponge. 📚 
 - I believe in the marriage of form and function. User experience and design are key elements in all my projects. 🎨 
@@ -22,8 +22,7 @@
 
 <br>
 
-## 💻 Tech Stack:
-<br>
+**💻 Tech Stack:**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,10 +36,8 @@
   </a>
 </p>
 
-<br>
-<hr>
 
-### Blogs Posts :
+**Blogs Posts:**
 <!-- BLOG-POST-LIST:START -->
 - [Guide to Remix IDE: First step in Smart Contract Development](https://subrotokumar.hashnode.dev/guide-to-remix-ide)
 - [How To Deploy A Smart Contract On Blockchain Using Python](https://subrotokumar.hashnode.dev/how-to-deploy-a-smart-contract-on-blockchain-using-python)
