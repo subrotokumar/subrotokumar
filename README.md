@@ -11,14 +11,13 @@
 <p align="left">  
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png">
 </p>
-🚀 Coding Connoisseur & Digital Explorer 🌍 Welcome to my digital playground! 🎮 I'm not just another developer; I'm an architect of extraordinary experiences in the realm of code. Whether it's deciphering the matrix of algorithms, creating mesmerizing web designs, or sculpting mobile apps, I do it all with flair. 💻✨
 
-📝 Beyond the syntax 📜, I'm a wordsmith in the coding cosmos. I turn ideas into lines of code and stories into engaging articles. Dive into my digital journal to discover insights, tech sagas, and captivating coding tales. 📚✍️
-
-📫 Send a Digital Raven. You can summon me via Email 🦉 or drop a signal in the digital cosmos on Twitter at @isubrotokumar. Ready for an interstellar conversation? 🌌✉️
-
-⚡ When the screens and code lines fade, I immerse myself in the enchanting realms of Anime and Manga. Every episode and chapter is an adventure waiting to unfold. Join me on these captivating journeys, one frame at a time. 🌸🎉
-  
+#### Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital.  
+- I'm a lifelong learner, constantly exploring the ever-evolving world of technology and its endless possibilities. 👨‍💻 
+- My world revolves around the software - I'm deeply involved in mobile / web development, from front-end to back-end, and everything in between. 🌐
+- I'm obsessed with solving problems. If something isn't working, I'll dive into the code, dissect it, and make it work. 🔧 
+- I'm an avid reader, always searching for the latest tech trends and absorbing knowledge like a sponge. 📚 
+- I believe in the marriage of form and function. User experience and design are key elements in all my projects. 🎨 
 </p>
 
 <br>
