@@ -12,19 +12,19 @@
     <td>
                   <Table width="50%">
                     <tr><td>
-                        I'm a lifelong learner, constantly exploring the ever-evolving world of technology<br> and its endless possibilities. 👨‍💻
+                        I'm a lifelong learner, constantly exploring the ever-evolving world<br>of technology and its endless possibilities. 👨‍💻
                     </td></tr>
                     <tr><td>
-                        My world revolves around the software - I'm deeply involved in mobile development, <br>from front-end to back-end, and everything in between. 🌐  
+                        My world revolves around the software - I'm deeply involved in mobile<br>development, from front-end to back-end, and everything in between. 🌐  
                     </td></tr>
                      <tr><td>
-                       I'm obsessed with solving problems. If something isn't working, I'll dive into the code,<br> dissect it, and make it work. 🔧   
+                        I'm obsessed with solving problems. If something isn't working, I'll<br>dive into the code,<br> dissect it, and make it work. 🔧   
                     </td></tr>
                     <tr><td>
-                      I'm an avid reader, always searching for the latest tech trends and absorbing knowledge<br> like a sponge. 📚     
+                      I'm an avid reader, always searching for the latest tech trends and <br>absorbing knowledge<br> like a sponge. 📚     
                     </td></tr>
                       <tr><td>
-                       I believe in the marriage of form and function. User experience and <design are key <br>elements in all my projects. 🎨  
+                       I believe in the marriage of form and function. User experience and <br>design are key elements in all my projects. 🎨  
                     </td></tr>
                   </Table>
     </td>
