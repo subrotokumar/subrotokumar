@@ -7,19 +7,33 @@
 <a href="https://www.linkedin.com/in/kumarsubroto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 </p>
 
-
-<p align="left">  
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png">
-</p>
-
-**Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital.**
-- I'm a lifelong learner, constantly exploring the ever-evolving world of technology and its endless possibilities. 👨‍💻 
-- My world revolves around the software - I'm deeply involved in mobile/web development, from front-end to back-end, and everything in between. 🌐
-- I'm obsessed with solving problems. If something isn't working, I'll dive into the code, dissect it, and make it work. 🔧 
-- I'm an avid reader, always searching for the latest tech trends and absorbing knowledge like a sponge. 📚 
-- I believe in the marriage of form and function. User experience and design are key elements in all my projects. 🎨 
-</p>
-
+<Table>
+  <tr>
+    <td>
+                  <Table width="50%">
+                    <tr><td>
+                        I'm a lifelong learner, constantly exploring the ever-evolving world of technology<br> and its endless possibilities. 👨‍💻
+                    </td></tr>
+                    <tr><td>
+                        My world revolves around the software - I'm deeply involved in mobile development, <br>from front-end to back-end, and everything in between. 🌐  
+                    </td></tr>
+                     <tr><td>
+                       I'm obsessed with solving problems. If something isn't working, I'll dive into the code,<br> dissect it, and make it work. 🔧   
+                    </td></tr>
+                    <tr><td>
+                      I'm an avid reader, always searching for the latest tech trends and absorbing knowledge<br> like a sponge. 📚     
+                    </td></tr>
+                      <tr><td>
+                       I believe in the marriage of form and function. User experience and <design are key <br>elements in all my projects. 🎨  
+                    </td></tr>
+                  </Table>
+    </td>
+     <td>
+      <img src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png">
+    </td>
+  
+  </tr>
+</Table>
 <br>
 
 **💻 Tech Stack:**
@@ -36,13 +50,7 @@
   </a>
 </p>
 
-
-**Blogs Posts:**
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Remix IDE: First step in Smart Contract Development](https://subrotokumar.hashnode.dev/guide-to-remix-ide)
-- [How To Deploy A Smart Contract On Blockchain Using Python](https://subrotokumar.hashnode.dev/how-to-deploy-a-smart-contract-on-blockchain-using-python)
-- [How to setup WSL2 and run Linux GUI apps in Windows operating system](https://subrotokumar.hashnode.dev/how-to-setup-wsl2-and-run-linux-gui-apps-in-windows-operating-system-1)
-- [What is Markdown and how you can use it to write README.md file for your GitHub project?](https://subrotokumar.hashnode.dev/what-is-markdown-and-how-you-can-use-it-to-write-readmemd-file-for-your-github-project)
 <!-- BLOG-POST-LIST:END -->  
 
 <br>
