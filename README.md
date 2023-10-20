@@ -7,24 +7,27 @@
 <a href="https://www.linkedin.com/in/kumarsubroto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 </p>
 
+<p align="center">
+  <strong>Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital.</strong>
+</p>
 <Table>
   <tr>
     <td>
                   <Table width="50%">
                     <tr><td>
-                        I'm a lifelong learner, constantly exploring the ever-evolving world<br>of technology and its endless possibilities. 👨‍💻
+                        👨‍💻 I'm a lifelong learner, constantly exploring the ever-evolving world<br>of technology and its endless possibilities.
                     </td></tr>
                     <tr><td>
-                        My world revolves around the software - I'm deeply involved in mobile<br>development, from front-end to back-end, and everything in between. 🌐  
+                        🌐 My world revolves around the software - I'm deeply involved in mobile<br>development, from front-end to back-end, and everything in between. 
                     </td></tr>
                      <tr><td>
-                        I'm obsessed with solving problems. If something isn't working, I'll<br>dive into the code,<br> dissect it, and make it work. 🔧   
+                        🔧 I'm obsessed with solving problems. If something isn't working, I'll<br>dive into the code, dissect it, and make it work. 
                     </td></tr>
                     <tr><td>
-                      I'm an avid reader, always searching for the latest tech trends and <br>absorbing knowledge<br> like a sponge. 📚     
+                        📚 I'm an avid reader, always searching for the latest tech trends and<br>absorbing knowledge like a sponge.    
                     </td></tr>
                       <tr><td>
-                       I believe in the marriage of form and function. User experience and <br>design are key elements in all my projects. 🎨  
+                        🎨  I believe in the marriage of form and function. User experience and <br>design are key elements in all my projects.
                     </td></tr>
                   </Table>
     </td>
