@@ -1,15 +1,14 @@
 ![](https://media.discordapp.net/attachments/714398127662039080/1154079055885381644/banner.png)
 
-<p align="center">
-<a href="#"><img src="https://komarev.com/ghpvc/?username=subrotokumar&style=for-the-badge"></a> &nbsp;
-<a href="https://www.twitter.com/isubrotokumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
-<!-- <a href="https://www.instagram.com/isubrotokumar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp; -->
-<a href="https://www.linkedin.com/in/kumarsubroto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
-</p>
 
-<p align="center">
-  <strong>Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital.</strong>
-</p>
+<table align="center">
+  <tr>
+    <td>
+  <strong>Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital</strong>
+    </td>
+  </tr>
+</table>
+
 <Table>
   <tr>
     <td>
@@ -32,14 +31,21 @@
                   </Table>
     </td>
      <td>
-      <img src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png">
+       <p align="center">
+         <img width="80%" src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png">
+               <br>
+         <a href="#"><img src="https://komarev.com/ghpvc/?username=subrotokumar&style=for-the-badge"></a>
+         <a href="https://www.twitter.com/isubrotokumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+         <a href="https://www.linkedin.com/in/kumarsubroto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+       </p>
     </td>
   
   </tr>
 </Table>
 <br>
 
-**💻 Tech Stack:**
+
+<p align="center"><strong>TECH STACK</strong></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
