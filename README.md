@@ -12,23 +12,13 @@
 <Table>
   <tr>
     <td>
-                  <Table width="50%">
-                    <tr><td>
-                        👨‍💻 I'm a lifelong learner, constantly exploring the ever-evolving world<br>of technology and its endless possibilities.
-                    </td></tr>
-                    <tr><td>
-                        🌐 My world revolves around the software - I'm deeply involved in mobile<br>development, from front-end to back-end, and everything in between. 
-                    </td></tr>
-                     <tr><td>
-                        🔧 I'm obsessed with solving problems. If something isn't working, I'll<br>dive into the code, dissect it, and make it work. 
-                    </td></tr>
-                    <tr><td>
-                        📚 I'm an avid reader, always searching for the latest tech trends and<br>absorbing knowledge like a sponge.    
-                    </td></tr>
-                      <tr><td>
-                        🎨  I believe in the marriage of form and function. User experience and <br>design are key elements in all my projects.
-                    </td></tr>
-                  </Table>
+     <p>
+        I'm on a perpetual quest for knowledge, exploring the vast world of technology. As a software developer, I effortlessly dance between the front-end and back-end realms, crafting digital experiences.<br><br>
+        Got a bug? Consider it solved! I thrive on dissecting code, troubleshooting issues, and engineering solutions. Challenges are my playground.<br><br>
+        Always armed with the latest tech trends, I devour information like a tech-savvy sponge. Stay informed, stay ahead, right?<br><br>
+        I'm all about that sweet spot where design and user experience intertwine. Every project is a canvas, and I paint it with seamless functionality and killer aesthetics.<br>
+        Ready to ride the tech wave with me? Let's innovate and explore together!
+     </p> 
     </td>
      <td>
        <p align="center">
