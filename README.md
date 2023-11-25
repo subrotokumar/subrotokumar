@@ -53,7 +53,6 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <br>
-<!--
 <details>
 <summary><strong>STATS</strong></summary>
 <br>
@@ -64,7 +63,5 @@
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" />
 </p>
 </details>
--->
-
 
 <h2 align="center"> Show some ❤️ by starring some of the repositories! </h2>  
