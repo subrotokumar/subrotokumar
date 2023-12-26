@@ -12,6 +12,9 @@
 
 <Table>
   <tr>
+    <td width="20%" alight="center" >
+      <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,html,css,vim,bash,git,docker,linux,flutter&perline=2&theme=light">
+    </td>
      <td width="60%">
        <p align="center">
          <img  src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png" >
@@ -21,8 +24,8 @@
          <a href="https://www.linkedin.com/in/kumarsubroto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
        </p>
     </td>
-    <td width="40%" alight="center" >
-      <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,html,css,vim,bash,git,docker,linux,flutter,dart,tailwind,react,nextjs,nodejs,express,graphql,mongo,postgres,firebase,appwrite,androidstudio,&perline=4&theme=light">
+    <td width="20%" alight="center" >
+      <img width="100%" src="https://skillicons.dev/icons?i=dart,tailwind,react,nextjs,nodejs,express,graphql,mongo,postgres,firebase,appwrite,androidstudio,&perline=2&theme=light">
     </td>
   </tr>
   
