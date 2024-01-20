@@ -1,5 +1,14 @@
 ![](https://media.discordapp.net/attachments/714398127662039080/1154079055885381644/banner.png)
+<br>
 
+### Hi, I'm Subroto Kumar
+- 🚀 Flutter expert and Proficient Backend Developer.  
+- 🧑‍🚀 I'm learning about cloud and game developement att the monent.  
+- 🦉 You can follow me on Twitter [@isubrotokumar](https://www.twitter.com/isubrotokumar)  
+- ⚒️ You can download my works at [subrotokumar.com](https://subrotokumar.com)  
+
+<br>
+<br>
 <!--
 <table align="center">
   <tr>
@@ -9,7 +18,9 @@
   </tr>
 </table>
 -->
-
+<img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,html,css,vim,bash,git,docker,linux,flutter&theme=light">
+<img width="100%" src="https://skillicons.dev/icons?i=dart,tailwind,react,nextjs,nodejs,express,graphql,mongo,postgres,firebase,aws,androidstudio&theme=light">
+<!--
 <Table>
   <tr>
     <td width="20%" alight="center" >
@@ -30,6 +41,7 @@
   </tr>
   
 </Table>
+-->
 
 <br>
 
