@@ -3,7 +3,7 @@
 
 ### Hi, I'm Subroto Kumar
 - 🚀 Flutter expert and Proficient Backend Developer.  
-- 🧑‍🚀 I'm learning about cloud and game developement att the monent.  
+- 🧑‍🚀 I'm learning about cloud and game developement at the monent.  
 - 🦉 You can follow me on Twitter [@isubrotokumar](https://www.twitter.com/isubrotokumar)  
 - ⚒️ You can download my works at [subrotokumar.com](https://subrotokumar.com)  
 
