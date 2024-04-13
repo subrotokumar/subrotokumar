@@ -18,8 +18,8 @@
   </tr>
 </table>
 -->
-<img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,html,css,vim,bash,git,docker,linux,flutter&theme=light">
-<img width="100%" src="https://skillicons.dev/icons?i=dart,tailwind,react,nextjs,nodejs,express,graphql,mongo,postgres,firebase,aws,androidstudio&theme=light">
+<img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,html,css,vim,bash,git,linux,flutter,androidstudio,firebase&theme=light">
+<img width="100%" src="https://skillicons.dev/icons?i=spring,mongo,postgres,docker,kafka,rabbitmq,nodejs,express,angular,tailwind,react,nextjs,aws&theme=light">
 <!--
 <Table>
   <tr>
