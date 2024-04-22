@@ -20,7 +20,7 @@
 -->
 <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,kotlin,solidity,vim,bash,git&theme=light">
 <img width="100%" src="https://skillicons.dev/icons?i=spring,mongo,postgres,docker,kafka,rabbitmq,redis,nodejs,aws,terraform&theme=light">
-<img width="100%" src="https://skillicons.dev/icons?i=flutter,androidstudio,express,html,css,tailwind,angular,react,nextjs,firebase&theme=light">
+<img width="100%" src="https://skillicons.dev/icons?i=flutter,androidstudio,express,html,css,tailwind,react,nextjs,firebase&theme=light">
 <!--
 <Table>
   <tr>
