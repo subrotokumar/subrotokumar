@@ -1,11 +1,12 @@
 ![](https://media.discordapp.net/attachments/714398127662039080/1154079055885381644/banner.png)
 <br>
 
-### Hi, I'm Subroto Kumar
-- 🚀 Flutter expert and Proficient Backend Developer.  
-- 🧑‍🚀 I'm learning about cloud and game developement at the moment.  
-- 🦉 You can follow me on Twitter [@isubrotokumar](https://www.twitter.com/isubrotokumar)  
-- ⚒️ Checkout my work at [subrotokumar.com](https://subrotokumar.com)  
+Ahoy! I'm **Subroto Kumar**, your friendly neighborhood code voyager!  
+- 🚀 I'm on a mission to build the most robust and visually stunning apps this side of the Milky Way. Bugs beware, I'm armed with a keyboard and not afraid to use it!
+- 🦉 Join me on Twitter [@isubrotokumar](https://www.twitter.com/isubrotokumar)
+      for a daily dose of tech tales, witty one-liners, and occasional existential crises when my code doesn't compile.
+- ⚒️ Checkout my work at [subrotokumar.com](https://subrotokumar.com)
+      where you'll find a treasure trove of projects, tutorials, and maybe even a hidden easter egg or two. No spoilers, though!
 
 <br>
 <br>
