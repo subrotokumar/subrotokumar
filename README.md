@@ -5,8 +5,8 @@ Ahoy! I'm **Subroto Kumar**, your friendly neighborhood code voyager!
 - 🚀 I'm on a mission to build the most robust and visually stunning apps this side of the Milky Way. Bugs beware, I'm armed with a keyboard and not afraid to use it!
 - 🦉 Join me on Twitter [@isubrotokumar](https://www.twitter.com/isubrotokumar)
       for a daily dose of tech tales, witty one-liners, and occasional existential crises when my code doesn't compile.
-- ⚒️ Checkout my work at [subrotokumar.com](https://subrotokumar.com)
-      where you'll find a treasure trove of projects, tutorials, and maybe even a hidden easter egg or two. No spoilers, though!
+- ⚒️ Checkout my work at [subrotokumar.com](https://subrotokumar.dev)
+      where you'll find a trove of projects, tutorials, and maybe even a hidden easter egg or two. No spoilers, though!
 
 <br>
 <br>
