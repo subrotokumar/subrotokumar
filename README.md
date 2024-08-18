@@ -1,12 +1,14 @@
 ![](https://media.discordapp.net/attachments/714398127662039080/1154079055885381644/banner.png)
 <br>
+# About
 
-Ahoy! I'm **Subroto Kumar**, your friendly neighborhood code voyager!  
-- 🚀 I'm on a mission to build the most robust and visually stunning apps this side of the Milky Way. Bugs beware, I'm armed with a keyboard and not afraid to use it!
-- 🦉 Join me on Twitter [@isubrotokumar](https://www.twitter.com/isubrotokumar)
-      for a daily dose of tech tales, witty one-liners, and occasional existential crises when my code doesn't compile.
-- ⚒️ Checkout my work at [subrotokumar.dev](https://subrotokumar.dev)
-      where you'll find a trove of projects, tutorials, and maybe even a hidden easter egg or two. No spoilers, though!
+- **Player Name**: Subroto Kumar
+- **Character Name**: Rigel
+- **Race**: Otaku
+- **Class**: Software Engineer
+- **Alignment**: It works on my machine...
+- **Proficiencies**: Backend Developer, Flutter App Developer
+- **Language**: Go, Java, Dart, JavaScript / TypeScript, Python
 
 <br>
 <br>
