@@ -1,76 +1,33 @@
-![](https://media.discordapp.net/attachments/714398127662039080/1154079055885381644/banner.png)
-<br>
-# About
+![](./assets/banner.png)
 
-- **Player Name**: Subroto Kumar
-- **Character Name**: Rigel
-- **Race**: Otaku
-- **Class**: Software Engineer
-- **Alignment**: It works on my machine...
-- **Proficiencies**: Backend Developer, Flutter App Developer
-- **Language**: Go, Java, Dart, JavaScript / TypeScript, Python
+<details open>
+  <summary><strong>ABOUT</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Player Name</strong>: Subroto Kumar</li>
+    <li><strong>Character Name</strong>: Rigel</li>
+    <li><strong>Race</strong>: Otaku</li>
+    <li><strong>Class</strong>: Software Engineer</li>
+    <li><strong>Alignment</strong>: It works on my machine...</li>
+    <li><strong>Proficiencies</strong>: Backend Developer, Flutter App Developer</li>
+    <li><strong>Languages</strong>: Go, Java, Dart, JavaScript / TypeScript, Python</li>
+  </ul>
+</details>
 
-<br>
-<br>
-<!--
-<table align="center">
-  <tr>
-    <td>
-  <strong>Welcome to my digital workspace! I'm a tech enthusiast with an insatiable curiosity and a passion for all things digital</strong>
-    </td>
-  </tr>
-</table>
--->
-<img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,kotlin,solidity,vim,bash,git&theme=light">
-<img width="100%" src="https://skillicons.dev/icons?i=spring,mongo,postgres,docker,kafka,rabbitmq,redis,nodejs,aws,terraform&theme=light">
-<img width="100%" src="https://skillicons.dev/icons?i=flutter,androidstudio,express,html,css,tailwind,react,nextjs,firebase&theme=light">
-<!--
-<Table>
-  <tr>
-    <td width="20%" alight="center" >
-      <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,html,css,vim,bash,git,docker,linux,flutter&perline=2&theme=light">
-    </td>
-     <td width="60%">
-       <p align="center">
-         <img  src="https://user-images.githubusercontent.com/95968368/183289298-957af452-56c4-452a-b742-e2287a480753.png" >
-               <br>
-         <a href="#"><img src="https://komarev.com/ghpvc/?username=subrotokumar&style=for-the-badge"></a>
-         <a href="https://www.twitter.com/isubrotokumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-         <a href="https://www.linkedin.com/in/kumarsubroto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-       </p>
-    </td>
-    <td width="20%" alight="center" >
-      <img width="100%" src="https://skillicons.dev/icons?i=dart,tailwind,react,nextjs,nodejs,express,graphql,mongo,postgres,firebase,appwrite,androidstudio,&perline=2&theme=light">
-    </td>
-  </tr>
-  
-</Table>
--->
 
-<br>
-
-<!--
-<p align="center"><strong>TECH STACK</strong></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,javascript,typescript,html,css,vim,bash,git,docker,linux" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,tailwind,react,nextjs,nodejs,express,graphql,mongo,postgres,firebase,appwrite,androidstudio" />
-  </a>
-</p>
--->
+<details>
+  <summary><strong>SKILLS & ABILITIES</strong></summary>
+  <br>
+  <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,kotlin,solidity,vim,bash,git&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=spring,mongo,postgres,docker,kafka,rabbitmq,redis,nodejs,aws,terraform&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=flutter,androidstudio,express,html,css,tailwind,react,nextjs,firebase&theme=light">
+</details>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->  
 
-<br>
 <details>
-<summary><strong>STATS</strong></summary>
+<summary><strong>CHARACTER STATS</strong></summary>
 <br>
 <p align="center">
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=subrotokumar&show_icons=true&theme=swift" alt="subrotokumar" /><img align="center" width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar&theme=swift&hide_border=false"  alt="subrotokumar" />
