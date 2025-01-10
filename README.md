@@ -18,9 +18,9 @@
 <details>
   <summary><strong>SKILLS & ABILITIES</strong></summary>
   <br>
-  <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,kotlin,solidity,vim,bash,git&theme=light">
-  <img width="100%" src="https://skillicons.dev/icons?i=spring,mongo,postgres,docker,kafka,rabbitmq,redis,nodejs,aws,terraform&theme=light">
-  <img width="100%" src="https://skillicons.dev/icons?i=flutter,androidstudio,express,html,css,tailwind,react,nextjs,firebase&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,python,solidity,vim,git&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=spring,graphql,mongo,postgres,kafka,rabbitmq,redis,nodejs,express,aws&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,bash,flutter,androidstudio,react,firebase,nginx&theme=light">
 </details>
 
 <!-- BLOG-POST-LIST:START -->
