@@ -8,7 +8,7 @@
     <li><strong>Character Name</strong>: Rigel</li>
     <li><strong>Race</strong>: Otaku</li>
     <li><strong>Class</strong>: Software Engineer</li>
-    <li><strong>Alignment</strong>: It works on my machine...</li>
+    <li><strong>Alignment</strong>: Work will keep coming. Don't forget to live a little.</li>
     <li><strong>Proficiencies</strong>: Backend Developer, Flutter App Developer</li>
     <li><strong>Languages</strong>: Go, Java, Dart, JavaScript / TypeScript, Python</li>
   </ul>
