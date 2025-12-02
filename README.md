@@ -14,18 +14,18 @@
   </ul>
 </details>
 
-
 <details>
   <summary><strong>SKILLS & ABILITIES</strong></summary>
   <br>
-  <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,dart,python,solidity,vim,git&theme=light">
-  <img width="100%" src="https://skillicons.dev/icons?i=spring,graphql,mongo,postgres,kafka,rabbitmq,redis,nodejs,express,aws&theme=light">
-  <img width="100%" src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,bash,flutter,androidstudio,react,firebase,nginx&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=java,go,javascript,typescript,python,rust,vim,git,bash,dart,flutter&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=azure,aws,gitlab,jenkins,docker,kubernetes,terraform,grafana,prometheus,nginx,linux,ubuntu&theme=light">
+  <img width="100%" src="https://skillicons.dev/icons?i=spring,kafka,graphql,mongo,postgres,sqlite,rabbitmq,redis,nodejs,express,androidstudio,react&theme=light">
 </details>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->  
 
+<!--
 <details>
 <summary><strong>CHARACTER STATS</strong></summary>
 <br>
@@ -36,5 +36,6 @@
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar&show_icons=true&locale=en&layout=compact" alt="subrotokumar" />
 </p>
 </details>
+-->
 
 <h2 align="center"> Show some ❤️ by starring some of the repositories! </h2>  
