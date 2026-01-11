@@ -9,7 +9,7 @@
     <li><strong>Race</strong>: Otaku</li>
     <li><strong>Class</strong>: Software Engineer</li>
     <li><strong>Alignment</strong>: Work will keep coming. Don't forget to live a little.</li>
-    <li><strong>Proficiencies</strong>: Backend Developer, Flutter App Developer</li>
+    <li><strong>Proficiencies</strong>: Backend, Cloud & DevOps, Kubernetes, Flutter</li>
     <li><strong>Languages</strong>: Go, Java, Dart, JavaScript / TypeScript, Python</li>
   </ul>
 </details>
